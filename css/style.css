@@ -1,4 +1,21 @@
+body {
+    background-color: dimgrey;
+    text-align: center;
+}
 h1 {    
-    font-size: 100px;
-    color: aqua;
+    font-size: 30px;
+    color: yellow;
+}
+h3 {
+    font-size: 22px;
+    color: tomato;
+}
+p {
+    font-size: 20px;
+    color: yellow;
+}
+.container {
+    margin: 10px;
+    padding: 10px;
+    position: center;
 }
