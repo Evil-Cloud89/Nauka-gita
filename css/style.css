@@ -4,14 +4,25 @@ body {
 }
 h1 {    
     font-size: 30px;
-    color: yellow;
+    color: rgb(34, 34, 219);
 }
 h3 {
     font-size: 22px;
     color: tomato;
 }
-p {
-    font-size: 20px;
+.lyric {
+    font-size: 16px;
+    font-weight: 500;
+    color: orange;
+}
+.chorus {
+    font-size: 16px;
+    font-weight: 600;
+    color: orange;
+}
+.chorus-2 {
+    font-size: 16px;
+    font-weight: 700;
     color: yellow;
 }
 .container {
